@@ -1,0 +1,24 @@
+{
+  "name": "issuetracker",
+  "version": "1.0.0",
+  "description": "issue tracker project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rioxraman/issuetracker.git"
+  },
+  "keywords": [
+    "issue",
+    "tracker",
+    "project"
+  ],
+  "author": "raman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rioxraman/issuetracker/issues"
+  },
+  "homepage": "https://github.com/rioxraman/issuetracker#readme"
+}
